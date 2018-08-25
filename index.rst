@@ -6,15 +6,15 @@
 EveKit Documentation
 ====================
 
+Welcome to EveKit!
+
+EveKit is a web-based toolkit for building applications based on the EVE Online third party APIs.
+The following documentation will explain the various features of EveKit and their use.
+
 .. toctree::
    :maxdepth: 2
 
-   overview/overview
    overview/getting_started
+   overview/features
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
