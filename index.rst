@@ -43,14 +43,14 @@ our REST API; or, you can use a third party tool which supports EveKit.
    :caption: Integrations
 
    integrations/jeveassets
-.. integrations/jupyter
 .. integrations/googlesheets
+.. integrations/jupyter
 
 .. _other-data:
 
 .. toctree::
    :maxdepth: 4
-   :caption: Other Datasets
+   :caption: Dataset Details
 
    other/sde
    other/ref
