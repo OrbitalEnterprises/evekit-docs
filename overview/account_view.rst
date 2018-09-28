@@ -47,6 +47,8 @@ the token completely.  If you remove the ESI token, then data will no longer be
 recorded for this account.  However, you can continue to access any saved data
 (using the model API) until you delete the account.
 
+.. _ui-ModelAccessKeys:
+
 Model Access Keys
 -----------------
 

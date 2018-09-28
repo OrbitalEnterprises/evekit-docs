@@ -52,7 +52,5 @@ our REST API; or, you can use a third party tool which supports EveKit.
    :maxdepth: 4
    :caption: Dataset Details
 
-   other/sde
-   other/ref
    other/marketdata
 
