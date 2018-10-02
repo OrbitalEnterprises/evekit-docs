@@ -274,6 +274,8 @@ The following python pseudo code illustrates the retrieval of large result sets:
 Note that there is no concept of "reversing" the order of the result set. Results are always
 returned in the same order, but can be offset using the "contid" argument.
 
+.. _api-markets:
+
 Market API
 ----------
 
